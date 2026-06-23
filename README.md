@@ -173,29 +173,6 @@ The dataset contains information related to:
 
 ---
 
-## 📁 Project Structure
-
-```text
-UK-Railway-Dashboard/
-│
-├── README.md
-│
-├── images/
-│   ├── executive-overview-dashboard.png
-│   ├── financial-analysis-dashboard.png
-│   ├── financial-breakdown-dashboard.png
-│   ├── operational-analysis-dashboard.png
-│   └── passenger-insights-dashboard.png
-│
-├── PowerBI/
-│   └── UK_Railway_Dashboard.pbix
-│
-└── Dataset/
-    └── railway_dataset.csv
-```
-
----
-
 ## 🚀 Dashboard Features
 
 ✔ Executive KPI Monitoring
