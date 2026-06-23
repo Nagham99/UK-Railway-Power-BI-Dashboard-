@@ -30,7 +30,7 @@ The Executive Overview page provides a summary of key business metrics including
 
 ### Financial Analysis Dashboard
 
-![Financial Analysis Dashboard](images/financial-analysis-dashboard.png)
+![Financial Analysis Dashboard](images/uk2.png)
 
 This page focuses on financial performance and revenue insights.
 
@@ -52,7 +52,7 @@ This page focuses on financial performance and revenue insights.
 
 ### Financial Breakdown Dashboard
 
-![Financial Breakdown Dashboard](images/financial-breakdown-dashboard.png)
+![Financial Breakdown Dashboard](images/uk3.png)
 
 Provides detailed route-level financial reporting.
 
@@ -71,7 +71,7 @@ This page allows users to drill into detailed financial metrics for individual r
 
 ### Railway Operational Analysis Dashboard
 
-![Operational Analysis Dashboard](images/operational-analysis-dashboard.png)
+![Operational Analysis Dashboard](images/uk4.png)
 
 Focused on operational performance and delay monitoring.
 
@@ -92,7 +92,7 @@ Focused on operational performance and delay monitoring.
 
 ### Passenger Insights Dashboard
 
-![Passenger Insights Dashboard](images/passenger-insights-dashboard.png)
+![Passenger Insights Dashboard](images/uk7.png)
 
 Provides customer and passenger behavior analysis.
 
